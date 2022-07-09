@@ -1,2 +1,1 @@
-# index.html
-# index.html
+Html'nin temel kavramları öğrenildi
